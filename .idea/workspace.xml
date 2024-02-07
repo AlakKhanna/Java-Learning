@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e3a24d6-531b-4561-a0ac-1c1c357ae35f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/learning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/pattern8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/pattern8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +36,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Pattern10.executor": "Run",
+    "Application.Pattern11.executor": "Run",
+    "Application.Pattern12.executor": "Run",
     "Application.Pattern2.executor": "Run",
     "Application.Pattern3.executor": "Run",
     "Application.Pattern4.executor": "Run",
     "Application.Pattern5.executor": "Run",
     "Application.Pattern7.executor": "Run",
+    "Application.Pattern9.executor": "Run",
     "Application.Q1.executor": "Run",
     "Application.Q11.executor": "Run",
     "Application.Q2.executor": "Run",
@@ -62,6 +63,7 @@
     "Application.pattern.executor": "Run",
     "Application.pattern1.executor": "Run",
     "Application.pattern6.executor": "Run",
+    "Application.pattern8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -75,9 +77,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pattern7">
-    <configuration name="Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Pattern4" />
+  <component name="RunManager" selected="Application.Pattern12">
+    <configuration name="Pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Pattern10" />
       <module name="Java Learning" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Pattern5" />
+    <configuration name="Pattern11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Pattern11" />
       <module name="Java Learning" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Pattern7" />
+    <configuration name="Pattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Pattern12" />
       <module name="Java Learning" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.pattern1" />
+    <configuration name="Pattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Pattern9" />
       <module name="Java Learning" />
       <extension name="coverage">
         <pattern>
@@ -128,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.pattern6" />
+    <configuration name="pattern8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.pattern8" />
       <module name="Java Learning" />
       <extension name="coverage">
         <pattern>
@@ -143,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern7" />
-        <item itemvalue="Application.pattern6" />
-        <item itemvalue="Application.Pattern5" />
-        <item itemvalue="Application.Pattern4" />
-        <item itemvalue="Application.pattern1" />
+        <item itemvalue="Application.Pattern12" />
+        <item itemvalue="Application.Pattern10" />
+        <item itemvalue="Application.Pattern11" />
+        <item itemvalue="Application.Pattern9" />
+        <item itemvalue="Application.pattern8" />
       </list>
     </recent_temporary>
   </component>
