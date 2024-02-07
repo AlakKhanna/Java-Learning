@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4e3a24d6-531b-4561-a0ac-1c1c357ae35f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Pattern12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Pattern12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/Patterbn13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Pattern13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/Pattern25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Pattern25.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,14 @@
     "Application.Pattern10.executor": "Run",
     "Application.Pattern11.executor": "Run",
     "Application.Pattern12.executor": "Run",
+    "Application.Pattern15.executor": "Run",
+    "Application.Pattern19.executor": "Run",
     "Application.Pattern2.executor": "Run",
+    "Application.Pattern20.executor": "Run",
+    "Application.Pattern21.executor": "Run",
+    "Application.Pattern22.executor": "Run",
+    "Application.Pattern23.executor": "Run",
+    "Application.Pattern25.executor": "Run",
     "Application.Pattern3.executor": "Run",
     "Application.Pattern4.executor": "Run",
     "Application.Pattern5.executor": "Run",
@@ -64,6 +72,10 @@
     "Application.pattern.executor": "Run",
     "Application.pattern1.executor": "Run",
     "Application.pattern14.executor": "Run",
+    "Application.pattern16.executor": "Run",
+    "Application.pattern17.executor": "Run",
+    "Application.pattern18.executor": "Run",
+    "Application.pattern24.executor": "Run",
     "Application.pattern6.executor": "Run",
     "Application.pattern8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -79,9 +91,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pattern14">
-    <configuration name="Patterbn13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Patterbn13" />
+  <component name="RunManager" selected="Application.Pattern25">
+    <configuration name="Pattern21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Pattern21" />
       <module name="Java Learning" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Pattern10" />
+    <configuration name="Pattern22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Pattern22" />
       <module name="Java Learning" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Pattern11" />
+    <configuration name="Pattern23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Pattern23" />
       <module name="Java Learning" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Pattern12" />
+    <configuration name="Pattern25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Pattern25" />
       <module name="Java Learning" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.pattern14" />
+    <configuration name="pattern24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.pattern24" />
       <module name="Java Learning" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pattern14" />
-        <item itemvalue="Application.Patterbn13" />
-        <item itemvalue="Application.Pattern12" />
-        <item itemvalue="Application.Pattern10" />
-        <item itemvalue="Application.Pattern11" />
+        <item itemvalue="Application.Pattern25" />
+        <item itemvalue="Application.pattern24" />
+        <item itemvalue="Application.Pattern23" />
+        <item itemvalue="Application.Pattern22" />
+        <item itemvalue="Application.Pattern21" />
       </list>
     </recent_temporary>
   </component>
@@ -182,44 +194,59 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/loop/Patterbn13.java</url>
+          <url>file://$PROJECT_DIR$/src/loop/Pattern13.java</url>
           <line>17</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/loop/Patterbn13.java</url>
+          <url>file://$PROJECT_DIR$/src/loop/Pattern13.java</url>
           <line>15</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/loop/Patterbn13.java</url>
+          <url>file://$PROJECT_DIR$/src/loop/Pattern13.java</url>
           <line>11</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/loop/Patterbn13.java</url>
+          <url>file://$PROJECT_DIR$/src/loop/Pattern13.java</url>
           <line>9</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/loop/Patterbn13.java</url>
+          <url>file://$PROJECT_DIR$/src/loop/Pattern13.java</url>
           <line>7</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/loop/Patterbn13.java</url>
+          <url>file://$PROJECT_DIR$/src/loop/Pattern13.java</url>
           <line>5</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/loop/Patterbn13.java</url>
+          <url>file://$PROJECT_DIR$/src/loop/Pattern13.java</url>
           <line>20</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/loop/Patterbn13.java</url>
+          <url>file://$PROJECT_DIR$/src/loop/Pattern13.java</url>
           <line>19</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loop/Pattern15.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loop/Pattern15.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loop/Pattern15.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
